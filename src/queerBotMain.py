@@ -1,2 +1,5 @@
 # Imports from queerBotImports.py
-import queerBotImports
+from queerBotImports import *
+
+# Main Code
+queerBotClient = discord.Client() # Creates a Discord Client object
